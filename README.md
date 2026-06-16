@@ -3,7 +3,7 @@
 ## Internship Details
 
 - Name: Ritik Saini
-- Intern ID: YOUR_INTERN_ID
+- Intern ID: CITS4562
 - Organization: CODTECH
 
 ## Project Description
